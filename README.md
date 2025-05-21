@@ -2,7 +2,6 @@
 
 A classic 2D Breakout game built with vanilla JavaScript, HTML, and CSS. This project demonstrates fundamental game development concepts and interactive web programming.
 
-![Game Preview](https://github.com/safwen5ds/1-hour-2D-Breakout-in-JavaScript/raw/main/preview.png)
 
 ## 🎯 Features
 
@@ -58,15 +57,3 @@ git clone https://github.com/safwen5ds/1-hour-2D-Breakout-in-JavaScript.git
 
 **Safwen Gharbi**
 - GitHub: [@safwen5ds](https://github.com/safwen5ds)
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/safwen5ds/1-hour-2D-Breakout-in-JavaScript/issues).
-
-## ⭐ Show your support
-
-Give a ⭐️ if this project helped you!
